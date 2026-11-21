@@ -1,14 +1,16 @@
 LoRaCTS (LoRa Communication and Tracking System) is a modified Meshtastic firmware project developed for LoRa-based mesh communication and GPS-integrated messaging. It is designed to support off-grid communication, emergency assistance, and location sharing without relying on cellular networks or internet connectivity for LoRa message transmission.
 
+
 Project Information
 Project Name: LoRa Communication and Tracking System (LoRaCTS)
-
 Institution: Polytechnic University of the Philippines
-
 Program: Diploma in Electronics Engineering Technology
 
+
 Acknowledgment
-This project is based on the open-source Meshtastic firmware. Original project: https://github.com/meshtastic/firmware
+This project is based on the open-source Meshtastic firmware. 
+Original project: https://github.com/meshtastic/firmware
+
 
 Meshtastic modifications are intended for academic research, development, and testing purposes.
 
