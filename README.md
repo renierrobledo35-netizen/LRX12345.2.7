@@ -2,8 +2,15 @@ LoRaCTS (LoRa Communication and Tracking System) is a modified Meshtastic firmwa
 
 Project Information
 Project Name: LoRa Communication and Tracking System (LoRaCTS)
+
 Institution: Polytechnic University of the Philippines
+
 Program: Diploma in Electronics Engineering Technology
+
+Acknowledgment
+This project is based on the open-source Meshtastic firmware. Original project: https://github.com/meshtastic/firmware
+
+Meshtastic modifications are intended for academic research, development, and testing purposes.
 
 
 <div align="center" markdown="1">
@@ -45,9 +52,3 @@ Join our community and help improve Meshtastic! 🚀
 ## Stats
 
 ![Alt](https://repobeats.axiom.co/api/embed/8025e56c482ec63541593cc5bd322c19d5c0bdcf.svg "Repobeats analytics image")
-
-
-Acknowledgment
-This project is based on the open-source Meshtastic firmware. Original project: https://github.com/meshtastic/firmware
-
-LoRaCTS modifications are intended for academic research, development, and testing purposes.
